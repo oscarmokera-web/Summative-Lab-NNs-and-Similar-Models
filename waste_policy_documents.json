@@ -1,0 +1,155 @@
+[
+  {
+    "policy_id": 1,
+    "policy_type": "Textile Trash Recycling Guidelines",
+    "categories_covered": [
+      "Textile Trash"
+    ],
+    "effective_date": "2023-11-04",
+    "document_text": "TEXTILE RECYCLING GUIDELINES\n\nAcceptable Items:\n- Clean clothing (all conditions)\n- Towels, sheets, and linens\n- Fabric scraps\n- Curtains and cloth napkins\n- Handbags and backpacks made of fabric\n- Soft toys and stuffed animals\n\nNon-Acceptable Items:\n- Wet or moldy textiles\n- Heavily soiled items\n- Carpets and rugs\n- Footwear\n- Items with significant non-textile parts\n\nCollection Method:\nPlace items in dedicated textile recycling bins or donate to local thrift stores.\n\nPreparation Instructions:\n- Ensure all items are clean and dry\n- Remove non-textile components when possible\n- Bag similar items together\n\nBenefits:\nTextile recycling conserves resources and reduces landfill waste.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 2,
+    "policy_type": "Glass Recycling Guidelines",
+    "categories_covered": [
+      "Glass"
+    ],
+    "effective_date": "2023-01-24",
+    "document_text": "GLASS RECYCLING GUIDELINES\n\nAcceptable Items:\n- Glass bottles (all colors)\n- Glass jars\n- Glass food containers\n- Glass beverage containers\n\nNon-Acceptable Items:\n- Window glass or mirrors\n- Drinking glasses\n- Ceramics or pottery\n- Light bulbs\n- Pyrex or heat-resistant glass\n\nCollection Method:\nPlace in dedicated glass recycling bins. Some areas require color sorting.\n\nPreparation Instructions:\n- Rinse containers\n- Remove caps and lids (recycle separately)\n- Labels can remain\n\nBenefits:\nGlass is 100% recyclable and can be recycled endlessly without loss of quality.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 3,
+    "policy_type": "Food Organics Recycling Guidelines",
+    "categories_covered": [
+      "Food Organics"
+    ],
+    "effective_date": "2023-05-08",
+    "document_text": "FOOD ORGANICS RECYCLING GUIDELINES\n\nAcceptable Items:\n- Fruit and vegetable scraps\n- Meat and fish (including bones)\n- Dairy products\n- Bread and grains\n- Coffee grounds and tea bags\n- Eggshells\n- Leftovers and spoiled food\n\nNon-Acceptable Items:\n- Packaging of any kind\n- Stickers on produce\n- Non-compostable bags\n- Liquids (drain first)\n- Grease or cooking oil\n\nCollection Method:\nUse dedicated food waste bins lined with compostable bags.\n\nPreparation Instructions:\n- Remove all packaging\n- Drain excess liquids\n- Use compostable bags if required\n\nBenefits:\nFood waste recycling reduces methane emissions and creates valuable compost.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 4,
+    "policy_type": "Plastic Recycling Guidelines",
+    "categories_covered": [
+      "Plastic"
+    ],
+    "effective_date": "2023-04-05",
+    "document_text": "PLASTIC RECYCLING GUIDELINES\n\nAcceptable Items:\n- PET bottles and containers (code #1)\n- HDPE containers (code #2)\n- PP containers (code #5)\n- Clean plastic packaging\n\nNon-Acceptable Items:\n- Plastic bags and film\n- Polystyrene foam (code #6)\n- Containers with food residue\n- Mixed material packaging\n- Black plastic containers\n\nCollection Method:\nPlace in dedicated recycling bins. Check local guidelines for specific plastic types accepted.\n\nPreparation Instructions:\n- Rinse containers\n- Remove lids and caps (recycle separately)\n- Check for recycling codes (1-7)\n\nBenefits:\nPlastic recycling reduces petroleum consumption and greenhouse gas emissions.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 5,
+    "policy_type": "Vegetation Recycling Guidelines",
+    "categories_covered": [
+      "Vegetation"
+    ],
+    "effective_date": "2023-12-04",
+    "document_text": "VEGETATION RECYCLING GUIDELINES\n\nAcceptable Items:\n- Grass clippings\n- Leaves and small branches\n- Flowers and plants\n- Garden trimmings\n- Weeds (non-invasive)\n- Tree prunings\n\nNon-Acceptable Items:\n- Soil or dirt\n- Rocks or gravel\n- Treated wood\n- Plastic bags\n- Invasive plants or diseased vegetation\n\nCollection Method:\nUse dedicated yard waste bins or paper yard waste bags.\n\nPreparation Instructions:\n- Cut branches to appropriate length (usually under 4 feet)\n- Remove non-plant materials\n- Keep separate from other waste streams\n\nBenefits:\nRecycled vegetation becomes valuable mulch and compost for community use.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 6,
+    "policy_type": "Cardboard Recycling Guidelines",
+    "categories_covered": [
+      "Cardboard"
+    ],
+    "effective_date": "2023-11-24",
+    "document_text": "CARDBOARD RECYCLING GUIDELINES\n\nAcceptable Items:\n- Corrugated cardboard boxes\n- Paperboard (cereal boxes, etc.)\n- Cardboard packaging\n- Cardboard tubes\n- Clean pizza boxes\n\nNon-Acceptable Items:\n- Waxed cardboard\n- Cardboard with food residue\n- Cardboard with plastic linings\n- Foam inserts\n- Packing peanuts\n\nCollection Method:\nFlatten and place in recycling bins or take to cardboard recycling centers.\n\nPreparation Instructions:\n- Remove all non-cardboard packaging\n- Flatten boxes to save space\n- Keep dry and clean\n\nBenefits:\nRecycling cardboard saves trees and reduces landfill volume significantly.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 7,
+    "policy_type": "Metal Recycling Guidelines",
+    "categories_covered": [
+      "Metal"
+    ],
+    "effective_date": "2023-09-03",
+    "document_text": "METAL RECYCLING GUIDELINES\n\nAcceptable Items:\n- Aluminum cans\n- Steel food cans\n- Metal lids and bottle caps\n- Clean aluminum foil\n- Empty aerosol cans\n- Metal containers\n\nNon-Acceptable Items:\n- Containers with hazardous material\n- Pressurized containers\n- Electronics with metal parts\n- Paint cans with residue\n- Scrap metal larger than 2 feet\n\nCollection Method:\nPlace in recycling bins or take to metal recycling centers.\n\nPreparation Instructions:\n- Rinse containers to remove food residue\n- Crush cans if possible to save space\n- Remove non-metal components\n\nBenefits:\nMetal recycling saves significant energy compared to mining and processing raw materials.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 8,
+    "policy_type": "Paper Recycling Guidelines",
+    "categories_covered": [
+      "Paper"
+    ],
+    "effective_date": "2023-10-14",
+    "document_text": "PAPER RECYCLING GUIDELINES\n\nAcceptable Items:\n- Office paper and mail\n- Newspapers and magazines\n- Books and catalogs\n- Paper bags\n- Wrapping paper (non-metallic)\n- Shredded paper (in paper bags)\n\nNon-Acceptable Items:\n- Food-soiled paper\n- Waxed paper\n- Paper towels and napkins\n- Thermal receipt paper\n- Paper with plastic coatings\n\nCollection Method:\nPlace in paper recycling bins or mixed recycling where accepted.\n\nPreparation Instructions:\n- Keep paper dry and clean\n- Remove plastic wrappings, windows, or bindings\n- Shred confidential documents\n\nBenefits:\nPaper recycling saves trees, reduces water pollution, and saves energy.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 9,
+    "policy_type": "Miscellaneous Trash Recycling Guidelines",
+    "categories_covered": [
+      "Miscellaneous Trash"
+    ],
+    "effective_date": "2023-01-01",
+    "document_text": "MISCELLANEOUS TRASH GUIDELINES\n\nItems That Cannot Be Recycled:\n- Multi-material items\n- Heavily soiled packaging\n- Certain plastic types (check local guidelines)\n- Broken household items\n- Non-recyclable packaging\n\nSpecial Handling Items:\n- Batteries (take to dedicated collection points)\n- Electronics (e-waste recycling centers)\n- Light bulbs (hardware store collection bins)\n- Paint and chemicals (hazardous waste facilities)\n- Medications (pharmacy take-back programs)\n\nWaste Reduction Tips:\n- Consider reusable alternatives\n- Repair broken items when possible\n- Donate usable items\n- Choose products with less packaging\n\nBenefits:\nProper sorting ensures maximum recycling rates and minimizes environmental impact.",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 10,
+    "policy_type": "Municipal Waste Guidelines",
+    "categories_covered": [
+      "Plastic",
+      "Miscellaneous Trash",
+      "Vegetation"
+    ],
+    "effective_date": "2023-10-01",
+    "document_text": "MUNICIPAL WASTE GUIDELINES\n\nGENERAL REQUIREMENTS:\n- Place recyclables in appropriate bins\n- Ensure materials are clean and properly sorted\n- Follow collection schedules\n- Keep hazardous materials separate\n\n\nPLASTIC GUIDELINES:\n- PET bottles and containers (code #1)\n- HDPE containers (code #2)\n- PP containers (code #5)\n- Clean plastic packaging\n- Plastic bags and film\n\nMISCELLANEOUS TRASH GUIDELINES:\n- Multi-material items\n- Heavily soiled packaging\n- Certain plastic types (check local guidelines)\n- Broken household items\n- Non-recyclable packaging\n\nVEGETATION GUIDELINES:\n- Grass clippings\n- Leaves and small branches\n- Flowers and plants\n- Garden trimmings\n- Weeds (non-invasive)",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 11,
+    "policy_type": "Residential Recycling Rules",
+    "categories_covered": [
+      "Plastic",
+      "Metal",
+      "Glass",
+      "Miscellaneous Trash",
+      "Vegetation"
+    ],
+    "effective_date": "2023-05-26",
+    "document_text": "RESIDENTIAL RECYCLING RULES\n\nGENERAL REQUIREMENTS:\n- Place recyclables in appropriate bins\n- Ensure materials are clean and properly sorted\n- Follow collection schedules\n- Keep hazardous materials separate\n\n\nPLASTIC GUIDELINES:\n- PET bottles and containers (code #1)\n- HDPE containers (code #2)\n- PP containers (code #5)\n- Clean plastic packaging\n- Plastic bags and film\n\nMETAL GUIDELINES:\n- Aluminum cans\n- Steel food cans\n- Metal lids and bottle caps\n- Clean aluminum foil\n- Empty aerosol cans\n\nGLASS GUIDELINES:\n- Glass bottles (all colors)\n- Glass jars\n- Glass food containers\n- Glass beverage containers\n- Window glass or mirrors\n\nMISCELLANEOUS TRASH GUIDELINES:\n- Multi-material items\n- Heavily soiled packaging\n- Certain plastic types (check local guidelines)\n- Broken household items\n- Non-recyclable packaging\n\nVEGETATION GUIDELINES:\n- Grass clippings\n- Leaves and small branches\n- Flowers and plants\n- Garden trimmings\n- Weeds (non-invasive)",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 12,
+    "policy_type": "Commercial Recycling Standards",
+    "categories_covered": [
+      "Food Organics",
+      "Metal",
+      "Miscellaneous Trash"
+    ],
+    "effective_date": "2023-05-05",
+    "document_text": "COMMERCIAL RECYCLING STANDARDS\n\nGENERAL REQUIREMENTS:\n- Place recyclables in appropriate bins\n- Ensure materials are clean and properly sorted\n- Follow collection schedules\n- Keep hazardous materials separate\n\n\nFOOD ORGANICS GUIDELINES:\n- Fruit and vegetable scraps\n- Meat and fish (including bones)\n- Dairy products\n- Bread and grains\n- Coffee grounds and tea bags\n\nMETAL GUIDELINES:\n- Aluminum cans\n- Steel food cans\n- Metal lids and bottle caps\n- Clean aluminum foil\n- Empty aerosol cans\n\nMISCELLANEOUS TRASH GUIDELINES:\n- Multi-material items\n- Heavily soiled packaging\n- Certain plastic types (check local guidelines)\n- Broken household items\n- Non-recyclable packaging",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 13,
+    "policy_type": "Multi-Unit Building Guidelines",
+    "categories_covered": [
+      "Cardboard",
+      "Glass",
+      "Textile Trash"
+    ],
+    "effective_date": "2023-07-04",
+    "document_text": "MULTI-UNIT BUILDING GUIDELINES\n\nGENERAL REQUIREMENTS:\n- Place recyclables in appropriate bins\n- Ensure materials are clean and properly sorted\n- Follow collection schedules\n- Keep hazardous materials separate\n\n\nCARDBOARD GUIDELINES:\n- Corrugated cardboard boxes\n- Paperboard (cereal boxes, etc.)\n- Cardboard packaging\n- Cardboard tubes\n- Clean pizza boxes\n\nGLASS GUIDELINES:\n- Glass bottles (all colors)\n- Glass jars\n- Glass food containers\n- Glass beverage containers\n- Window glass or mirrors\n\nTEXTILE TRASH GUIDELINES:\n- Clean clothing (all conditions)\n- Towels, sheets, and linens\n- Fabric scraps\n- Curtains and cloth napkins\n- Handbags and backpacks made of fabric",
+    "jurisdiction": "Metro City"
+  },
+  {
+    "policy_id": 14,
+    "policy_type": "Community Recycling Program",
+    "categories_covered": [
+      "Cardboard",
+      "Vegetation",
+      "Metal",
+      "Textile Trash"
+    ],
+    "effective_date": "2023-12-15",
+    "document_text": "COMMUNITY RECYCLING PROGRAM\n\nGENERAL REQUIREMENTS:\n- Place recyclables in appropriate bins\n- Ensure materials are clean and properly sorted\n- Follow collection schedules\n- Keep hazardous materials separate\n\n\nCARDBOARD GUIDELINES:\n- Corrugated cardboard boxes\n- Paperboard (cereal boxes, etc.)\n- Cardboard packaging\n- Cardboard tubes\n- Clean pizza boxes\n\nVEGETATION GUIDELINES:\n- Grass clippings\n- Leaves and small branches\n- Flowers and plants\n- Garden trimmings\n- Weeds (non-invasive)\n\nMETAL GUIDELINES:\n- Aluminum cans\n- Steel food cans\n- Metal lids and bottle caps\n- Clean aluminum foil\n- Empty aerosol cans\n\nTEXTILE TRASH GUIDELINES:\n- Clean clothing (all conditions)\n- Towels, sheets, and linens\n- Fabric scraps\n- Curtains and cloth napkins\n- Handbags and backpacks made of fabric",
+    "jurisdiction": "Metro City"
+  }
+]
